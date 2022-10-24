@@ -13,7 +13,7 @@ A web app that can search for books
 ## Installation
   Run npm i and then npm run develop or follow the deployed link
 
-Deployed:
+Deployed: https://book-search-engine-cs.herokuapp.com/
 
 ## Usage
   Used to search for books
